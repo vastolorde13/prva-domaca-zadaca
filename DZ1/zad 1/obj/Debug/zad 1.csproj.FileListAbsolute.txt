@@ -1,0 +1,12 @@
+C:\Users\Dag\Desktop\C#\zad 1\bin\Debug\zad 1.exe.config
+C:\Users\Dag\Desktop\C#\zad 1\bin\Debug\zad 1.exe
+C:\Users\Dag\Desktop\C#\zad 1\bin\Debug\zad 1.pdb
+C:\Users\Dag\Desktop\C#\zad 1\obj\Debug\zad 1.exe
+C:\Users\Dag\Desktop\C#\zad 1\obj\Debug\zad 1.pdb
+C:\Users\Dag\Desktop\C#\zad 1\obj\Debug\zad 1.csprojResolveAssemblyReference.cache
+C:\Users\Dag\Desktop\C#\DZ1\zad 1\bin\Debug\zad 1.exe.config
+C:\Users\Dag\Desktop\C#\DZ1\zad 1\obj\Debug\zad 1.exe
+C:\Users\Dag\Desktop\C#\DZ1\zad 1\obj\Debug\zad 1.pdb
+C:\Users\Dag\Desktop\C#\DZ1\zad 1\bin\Debug\zad 1.exe
+C:\Users\Dag\Desktop\C#\DZ1\zad 1\bin\Debug\zad 1.pdb
+C:\Users\Dag\Desktop\C#\DZ1\zad 1\obj\Debug\zad 1.csprojResolveAssemblyReference.cache
